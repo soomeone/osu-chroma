@@ -1,0 +1,8 @@
+c:\users\mio\documents\visual studio 2017\Projects\Osu!Chroma\Osu!Chroma\obj\Debug\Osu!Chroma.csprojResolveAssemblyReference.cache
+c:\users\mio\documents\visual studio 2017\Projects\Osu!Chroma\Osu!Chroma\bin\Debug\Osu!Chroma.exe.config
+c:\users\mio\documents\visual studio 2017\Projects\Osu!Chroma\Osu!Chroma\bin\Debug\Osu!Chroma.exe
+c:\users\mio\documents\visual studio 2017\Projects\Osu!Chroma\Osu!Chroma\bin\Debug\Osu!Chroma.pdb
+c:\users\mio\documents\visual studio 2017\Projects\Osu!Chroma\Osu!Chroma\bin\Debug\Corale.Colore.dll
+c:\users\mio\documents\visual studio 2017\Projects\Osu!Chroma\Osu!Chroma\bin\Debug\Corale.Colore.xml
+c:\users\mio\documents\visual studio 2017\Projects\Osu!Chroma\Osu!Chroma\obj\Debug\Osu!Chroma.exe
+c:\users\mio\documents\visual studio 2017\Projects\Osu!Chroma\Osu!Chroma\obj\Debug\Osu!Chroma.pdb
